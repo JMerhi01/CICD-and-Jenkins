@@ -12,7 +12,7 @@ The app is a node app with three pages.
 - `192.168.10.100:3000`
 ``localhost:3000``
 
-Displays a simple homepage displaying a Sparta logo and message. This page should return a 200 response!!
+Displays a simple homepage displaying a Sparta logo and message. This page should return a 200 response!!!
 
 ### Blog
 
